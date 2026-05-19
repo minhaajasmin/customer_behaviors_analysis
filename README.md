@@ -1,4 +1,4 @@
-# Data Analytics Project
+# customer_behaviors_analysis
 
 End-to-end data analytics pipeline — from raw data to interactive dashboard and executive presentation.
 
